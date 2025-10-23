@@ -2,5 +2,5 @@
 *.pkl
 *.joblib
 
-# Ignore artifacts folder
+# Ignore artifacts folders
 artifacts/
