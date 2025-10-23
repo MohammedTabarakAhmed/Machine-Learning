@@ -1,2 +1,6 @@
+# Ignore pickle and joblib files
 *.pkl
 *.joblib
+
+# Ignore artifacts folder
+artifacts/
